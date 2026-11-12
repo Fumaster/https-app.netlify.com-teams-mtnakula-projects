@@ -24,7 +24,7 @@ Audited 12 November 2026 from the live sites: home page, `robots.txt`, `sitemap.
 | Medium | bali-ai-consultant.com schema | Eight visible prices missing from schema. No `@id`, no WebSite entity, founder and parent brand not linked to lumindra.co entities | `bali-ai-consultant.com/head-snippet.html` |
 | Medium | bali-ai-consultant.com vs lumindra.co | TikTok handle differs (`@lumindra.co` vs `@lumindrabali`); two YouTube channels linked. Inconsistent profiles weaken entity matching, and one TikTok link is likely dead | `bali-ai-consultant.com/body-edits.md` §3 |
 | Medium | conscioussystemsbali.com, bali-ai-consultant.com robots.txt | Allows everyone by default, but does not name AI crawlers the way your other two sites do | `robots.txt` in each folder |
-| Medium | conscioussystemsbali.com title | 79 characters, gets cut off in results, and leads with poetry instead of what you offer | `head-snippet.html`: "Conscious Systems Bali \| Clarity Mapping & 5-Session Journey" (60) |
+| Medium | conscioussystemsbali.com title | 81 characters, gets cut off in results, and leads with poetry instead of what you offer | `head-snippet.html`: "Conscious Systems Bali \| Clarity Mapping & 5-Session Journey" (60) |
 | Low | conscioussystemsbali.com, bali-ai-consultant.com | No `og:site_name`/`og:locale`/`og:image:alt`; CS has no twitter title/description/image | `head-snippet.html` in each folder |
 | Low | sitemaps (CS, BAC) | `lastmod` from September, older than the live content | `sitemap.xml` in each folder |
 | Low | sunshootersbargrill.com | No favicon or apple-touch-icon declared, so the tab and Google result show a blank icon. No `og:locale`/`og:image:alt` | `sunshootersbargrill.com/head-additions.html` |
