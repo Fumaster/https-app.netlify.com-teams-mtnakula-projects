@@ -24,3 +24,16 @@ Findings are in [AUDIT.md](AUDIT.md). Each folder in `sites/` holds the files fo
 5. Run the home page through Google's Rich Results Test, then resubmit the sitemap in Search Console.
 
 Order: Conscious Systems, then Bali AI Consultant, then Sunshooters and Lumindra (small polish).
+
+## Deploy status (12 Nov 2026)
+
+`deployed/` holds the exact files uploaded. All other files on each site were left untouched.
+
+| Site | Netlify deploy | Status |
+|---|---|---|
+| conscioussystemsbali.com | 6af5184baa3525b8381798c0 | **Live** |
+| bali-ai-consultant.com | 6af5184f73844c5b434b6479 | **Live** |
+| sunshootersbargrill.com | 6af51871539e3ffd96e41d9e | **Ready, not published.** The site is locked; publish it from the Deploys list |
+| lumindra.co | — | Not deployed. Builds from GitHub `Fumaster/lumindra`; apply `sites/lumindra.co/sitemap.xml` there |
+
+Conscious Systems and Bali AI Consultant are linked to Netlify-hosted Git repos. Those repos don't contain these changes yet, so a future Netlify agent run or push there would overwrite them. Copy the `deployed/` files into those repos before your next agent run on those sites.
