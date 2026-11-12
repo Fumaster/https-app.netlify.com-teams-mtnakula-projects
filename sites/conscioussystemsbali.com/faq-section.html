@@ -1,0 +1,104 @@
+<!--
+  CONSCIOUS SYSTEMS: visible FAQ section + matching FAQPage schema.
+  1. Paste the <style> and <section> into index.html, just ABOVE the "Closing Presence" section near the end.
+  2. Paste the <script type="application/ld+json"> block into <head>, after the main JSON-LD block.
+  The schema matches the visible answers word for word. If you edit an answer, edit both.
+  Add  <a href="#faq">FAQ</a>  to the top nav if you want it linked.
+-->
+<style>
+.cs-faq{padding:96px 24px;max-width:860px;margin:0 auto}
+.cs-faq h2{font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(2rem,4vw,2.8rem);text-align:center;margin:0 0 10px}
+.cs-faq .cs-faq-sub{text-align:center;opacity:.7;margin:0 0 36px}
+.cs-faq details{border:1px solid rgba(255,255,255,.12);border-radius:8px;margin-bottom:10px}
+.cs-faq summary{cursor:pointer;padding:16px 20px;font-weight:500;list-style:none}
+.cs-faq summary::-webkit-details-marker{display:none}
+.cs-faq summary::after{content:"+";float:right;opacity:.7}
+.cs-faq details[open] summary::after{content:"–"}
+.cs-faq details p{padding:0 20px 18px;margin:0;opacity:.8;line-height:1.75}
+</style>
+
+<section class="cs-faq" id="faq" aria-labelledby="cs-faq-title">
+  <h2 id="cs-faq-title">Questions, answered.</h2>
+  <p class="cs-faq-sub">What Conscious Systems is, who it is for, and what it costs.</p>
+
+  <details open>
+    <summary>What is Conscious Systems?</summary>
+    <p>Conscious Systems is Mark Tulloch's clarity practice in Kerobokan, Bali, and part of Lumindra. It offers Clarity Mapping, a 5-Session Journey through Awareness, Intention, Action, Reflection and Presence, Strategic Soul Consulting, and The Captain's Map for parents.</p>
+  </details>
+
+  <details>
+    <summary>How much does a Clarity Mapping Session cost?</summary>
+    <p>A Clarity Mapping Session costs IDR 750k to 1.5jt. The 5-Session Journey is IDR 5jt to 8jt, and Strategic Soul Consulting starts at IDR 10jt. Prices are in Indonesian Rupiah and confirmed on WhatsApp before anything is booked.</p>
+  </details>
+
+  <details>
+    <summary>What do I get from a Clarity Mapping Session?</summary>
+    <p>You get a seven-part Clarity Map, written by Mark in plain language and sent after the session: Situation, Story, Emotions, Pattern, Choice, Path Forward and Final Truth. It comes with a 30-Day Reset Plan you can start the same day.</p>
+  </details>
+
+  <details>
+    <summary>Are sessions in person or online?</summary>
+    <p>Both. Sessions run in person in Bali or online, one-to-one or in a small group. The 5-Session Journey runs weekly or fortnightly, at a pace set together.</p>
+  </details>
+
+  <details>
+    <summary>What is The Captain's Map?</summary>
+    <p>The Captain's Map is a one-hour session for parents of children aged 13 and over who have been labelled, for example with ADHD or ASD. The Identity Anchor session costs IDR 5,000,000 and produces an Operating Map, a System Profile and a Parental Leadership Script, with 14-day WhatsApp follow-up. It is not therapy, psychological assessment or a replacement for medical advice.</p>
+  </details>
+
+  <details>
+    <summary>Who is Mark Tulloch?</summary>
+    <p>Mark Tulloch spent more than three decades running high-pressure hospitality across the UK, Australia and Bali. He is a trained crisis counsellor, mental-health advocate and public speaker, the author of Bipolar Aware and The Pub, The Punch &amp; The Path, and the founder of Lumindra in Bali.</p>
+  </details>
+
+  <details>
+    <summary>How do I book?</summary>
+    <p>Message Mark on WhatsApp at +62 821 4402 9645, or email connect@baliaiconsultant.com. Every conversation starts on WhatsApp, and most people begin with a single Clarity Mapping Session.</p>
+  </details>
+</section>
+
+<!-- Paste into <head>: -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://conscioussystemsbali.com/#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Conscious Systems?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Conscious Systems is Mark Tulloch's clarity practice in Kerobokan, Bali, and part of Lumindra. It offers Clarity Mapping, a 5-Session Journey through Awareness, Intention, Action, Reflection and Presence, Strategic Soul Consulting, and The Captain's Map for parents." }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does a Clarity Mapping Session cost?",
+      "acceptedAnswer": { "@type": "Answer", "text": "A Clarity Mapping Session costs IDR 750k to 1.5jt. The 5-Session Journey is IDR 5jt to 8jt, and Strategic Soul Consulting starts at IDR 10jt. Prices are in Indonesian Rupiah and confirmed on WhatsApp before anything is booked." }
+    },
+    {
+      "@type": "Question",
+      "name": "What do I get from a Clarity Mapping Session?",
+      "acceptedAnswer": { "@type": "Answer", "text": "You get a seven-part Clarity Map, written by Mark in plain language and sent after the session: Situation, Story, Emotions, Pattern, Choice, Path Forward and Final Truth. It comes with a 30-Day Reset Plan you can start the same day." }
+    },
+    {
+      "@type": "Question",
+      "name": "Are sessions in person or online?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Both. Sessions run in person in Bali or online, one-to-one or in a small group. The 5-Session Journey runs weekly or fortnightly, at a pace set together." }
+    },
+    {
+      "@type": "Question",
+      "name": "What is The Captain's Map?",
+      "acceptedAnswer": { "@type": "Answer", "text": "The Captain's Map is a one-hour session for parents of children aged 13 and over who have been labelled, for example with ADHD or ASD. The Identity Anchor session costs IDR 5,000,000 and produces an Operating Map, a System Profile and a Parental Leadership Script, with 14-day WhatsApp follow-up. It is not therapy, psychological assessment or a replacement for medical advice." }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Mark Tulloch?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Mark Tulloch spent more than three decades running high-pressure hospitality across the UK, Australia and Bali. He is a trained crisis counsellor, mental-health advocate and public speaker, the author of Bipolar Aware and The Pub, The Punch & The Path, and the founder of Lumindra in Bali." }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Message Mark on WhatsApp at +62 821 4402 9645, or email connect@baliaiconsultant.com. Every conversation starts on WhatsApp, and most people begin with a single Clarity Mapping Session." }
+    }
+  ]
+}
+</script>

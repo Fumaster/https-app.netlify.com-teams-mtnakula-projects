@@ -1,0 +1,39 @@
+# Bali AI Consultant
+
+> Bali AI Consultant is a Lumindra company, founded by Mark Tulloch, that builds practical AI systems for Bali businesses: AI training, WhatsApp automation, websites, hospitality workflows and custom AI-powered business operating systems for staff, rosters, SOPs, daily operations, reporting and dashboards. The model was built inside Sunshooters Bar & Grill, a live Bali venue. Prices are starting estimates in Indonesian Rupiah (IDR); final scope is confirmed after discovery. First step: a free call on WhatsApp.
+
+## Key facts
+- Founder: Mark Tulloch
+- Parent brand: Lumindra (https://lumindra.co/)
+- Area served: Bali, Indonesia
+- Contact: WhatsApp +62 821 4402 9645 (English and Indonesian)
+- Proven at: Sunshooters Bar & Grill, Bali
+
+## Services and starting prices (IDR)
+- AI Starter (four private 30-minute sessions for beginners): Rp 2,000,000 total
+- The 18-Minute Hospitality AI System (the morning workflow used at Sunshooters): Rp 2,500,000 one-time setup and training
+- Business WhatsApp Automation: custom setup from Rp 5,000,000. Official WhatsApp API and message fees are separate unless scoped
+- Professional Website Builds: from Rp 5,000,000
+- AI-Powered Business Operating Systems: setup from Rp 10,000,000
+- Personal Song Creations (Conscious Systems): Rp 500,000
+- Apocalypse turnaround intensive for founders: by application, limited places
+
+## Operating system packages
+- Foundation: from Rp 10,000,000, typical delivery 2 to 3 weeks. Single-location businesses replacing paper and spreadsheets
+- Operations Pro: from Rp 20,000,000, typical delivery 3 to 5 weeks. Growing hospitality, villas, gyms, agencies and service businesses
+- Connected Intelligence: from Rp 35,000,000, typical delivery 5 to 8 weeks. Multi-location or data-ready operations needing POS or data connections
+
+## Pages
+- [Home](https://bali-ai-consultant.com/): services, packages, process and FAQ
+- [Services](https://bali-ai-consultant.com/#bali-ai): AI Starter, WhatsApp automation, websites, hospitality system, operating systems
+- [What we build](https://bali-ai-consultant.com/#systems): the six operating system modules
+- [Packages](https://bali-ai-consultant.com/#packages): Foundation, Operations Pro, Connected Intelligence
+- [How it works](https://bali-ai-consultant.com/#process): Diagnose, Build, Train, Improve
+- [FAQ](https://bali-ai-consultant.com/#faq): POS, data, WhatsApp and ownership questions
+- [Apocalypse](https://bali-ai-consultant.com/apocalypse): private turnaround intensive for founders
+
+## Optional
+- [Lumindra](https://lumindra.co/): parent brand
+- [Conscious Systems](https://conscioussystemsbali.com/): clarity sessions with Mark Tulloch
+- [Instagram](https://www.instagram.com/baliaiconsultant.mark/)
+- [YouTube](https://www.youtube.com/@BaliAiConsultant1)
